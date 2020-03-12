@@ -1,3 +1,8 @@
+# Homework 8
+[Dockerfile](Dockerfile)
+![Docker Running -PS](figures/docker01.png)
+![Docker Running Instance](figures/docker02.png)
+
 # Instructions
 Temuulen Erdenekhuu
 [figures](figures)
